@@ -39,8 +39,8 @@ Rotate the image.
 
 ## Program:
 ```python
-Developed By: Ashwin Raaj.S
-Register Number: 212221230008
+Developed By: SRIJITH R
+Register Number: 212221240054
 
 i) Image Translation
 
